@@ -1,0 +1,9 @@
+com.DefaultCompany.EndlessRunner.launcher-pngs-0 C:\Users\judyt\Endless Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.EndlessRunner.launcher-resValues-1 C:\Users\judyt\Endless Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.EndlessRunner.launcher-rs-2 C:\Users\judyt\Endless Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.EndlessRunner.launcher-mergeReleaseResources-3 C:\Users\judyt\Endless Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.EndlessRunner.launcher-mergeReleaseResources-4 C:\Users\judyt\Endless Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.EndlessRunner.launcher-merged_res-5 C:\Users\judyt\Endless Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.EndlessRunner.launcher-main-6 C:\Users\judyt\Endless Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.EndlessRunner.launcher-release-7 C:\Users\judyt\Endless Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.EndlessRunner.launcher-packaged_res-8 C:\Users\judyt\Endless Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
